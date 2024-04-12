@@ -1,0 +1,27 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Encryption-Decryption (Java)/*
+!/Encryption-Decryption (Java)/task/
+/Encryption-Decryption (Java)/task/*
+!/Encryption-Decryption (Java)/task/src
+!/Encryption-Decryption (Java)/task/output.txt
+
+# Project exclude paths
+/Topics/Factory method/Burger store/out/
+/Topics/Factory method/Burger store/out/production/classes/
+/Topics/Factory method/Clocks/out/
+/Topics/Factory method/Clocks/out/production/classes/
+/Topics/Factory method/Robot/out/
+/Topics/Factory method/Robot/out/production/classes/
+/Topics/Factory method/Robot factory/out/
+/Topics/Factory method/Robot factory/out/production/classes/
